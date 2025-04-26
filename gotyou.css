@@ -1,0 +1,11 @@
+#no-button{
+    color: pink; 
+    background-color: #FFC0CB; 
+    border-color: #bd2130; 
+    position: absolute; 
+    font-weight: 400; 
+    padding: .375rem .75rem; 
+    font-size: 1rem; 
+    line-height: 1.5; 
+    border-radius: .25rem;
+}
